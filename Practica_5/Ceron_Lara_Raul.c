@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
+#include <stdint.h>
 
 #define TAM 1000
 #define NUM_THREADS 4
